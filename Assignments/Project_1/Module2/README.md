@@ -72,7 +72,10 @@ src/com/javaCoreAssessment/Main.java
 
 ## Output
 
-![Output](screenshots/output.png)
+![Output](screenshots/output1.png)
+![Output](screenshots/output2.png)
+![Output](screenshots/output3.png)
+
 
 
 
